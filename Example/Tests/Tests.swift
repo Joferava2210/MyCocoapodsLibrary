@@ -1,5 +1,5 @@
 import XCTest
-import MyCocoapodsLibrary
+//import MyCocoapodsLibrary
 
 class Tests: XCTestCase {
     
